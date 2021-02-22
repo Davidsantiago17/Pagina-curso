@@ -1,0 +1,68 @@
+.l{
+background-color: #152048;
+}
+#icon {
+  display: inline-block;
+  color: white;
+  font-size: 30px;
+  margin-top: 15px;
+}
+.i{
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 3px solid #222A53;
+}
+.li{
+background-color: white;
+}
+.titulo{
+	font-family: "Impact";
+	font-size: 55px;
+	color:  white;
+}
+.titulo2{
+	font-family: "Impact";
+	font-size: 35px;
+	color:  black;
+}
+.parrafo{
+	font-family: "Angency FB";
+	font-size: 25px;
+}
+
+.r{
+
+	margin-top: 30px;
+}
+.p{
+background-color: black;
+}
+#icon {
+  display: inline-block;
+  color: white;
+  font-size: 30px;
+  margin-top: 5px;
+}
+.pa{
+	font-family: "Angency FB";
+	font-size: 28px;
+	color: white ;
+}
+#icon2 {
+  display: inline-block;
+  color: black;
+  font-size: 15px;
+}
+
+.titulo3{
+	font-family: "Impact";
+	font-size: 55px;
+	color:  black;
+}
+.titulo4{
+	font-family: "Impact";
+	font-size: 35px;
+	color:  white;
+	margin-top: 150px;
+}
